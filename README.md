@@ -65,7 +65,9 @@
 ## 🔨 협업 툴
 
 ![GITHUB](https://img.shields.io/badge/GITHUB-lightgrey) - 결과물 시각화
+
 ![NOTION](https://img.shields.io/badge/NOTION-black) - 전반적인 내용 정리
+
 ![ZOOM](https://img.shields.io/badge/ZOOM-blue) - 주기적인 회의
 ---
 ## 📆 프로젝트 수행 절차 - 마일스톤
