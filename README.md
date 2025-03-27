@@ -80,3 +80,5 @@
 | 구성원 | 역할 | 주요업무 | 주요 활용 스택 | GITHUB |
 |:-:|:-:|:-:|:-:|:-:|
 |이동건|팀장| 프로젝트 PM<br>전반적인 PLC 설계<br>프로젝트 문서화|![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)|[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/a08160)|
+|조경록|팀원| [제품 분류 시스템] 기능3/기능4 PLC 구현<br>[모니터링 시스템/속도 자동 조절 시스템] HMI 작화<br>발표|![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)|[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/josh980510)|
+|김혜은|팀원| [제품 분류 시스템] HMI 작화<br>전체적인 세부 디자인 완성<br>PPT 제작|![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)|[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyeeun619)|
