@@ -76,6 +76,8 @@
 
 ---
 ## 👪 역할 분담
+
 |구성원|역할|주요업무|주요 활용 스택|GITHUB|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|이동건|팀장| 프로젝트 PM<br>전반적인 PLC 설계<br>프로젝트 문서화|![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)|https://github.com/a08160|
+|------|------|------|------|------|------|
+|이동건|팀장| 프로젝트 PM<br>전반적인 PLC 설계<br>프로젝트 문서화|![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)|[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/a08160)|
+
