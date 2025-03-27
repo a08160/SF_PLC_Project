@@ -73,3 +73,9 @@
 ---
 ## 📆 프로젝트 수행 절차 - 마일스톤
 ![image (5)](https://github.com/user-attachments/assets/48045360-78c3-45fb-afe3-525fc8524a52)
+
+---
+## 👪 역할 분담
+|구성원|역할|주요업무|주요 활용 스택|GITHUB|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|이동건|팀장| 프로젝트 PM<br>전반적인 PLC 설계<br>프로젝트 문서화|![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)|https://github.com/a08160|
