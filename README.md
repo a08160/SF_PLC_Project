@@ -36,7 +36,9 @@
 **✔️ 기능4. 각 제품 분류 후 재고량 카운트** 
 <br>
 
-### <span style="background-color:grey">**📍 시스템 모니터링 시스템**</span>
+<span style="background-color:grey">
+### **📍 시스템 모니터링 시스템**
+</span>
 
 **✔️ 기능1. 제품 데이터 모니터링**
 
@@ -55,7 +57,7 @@
     - 컨베이어 벨트 속도
 <br>
 
-### <span style="background-color:grey">📍 **속도 조절 시스템**</span>
+### 📍 **속도 조절 시스템**
 
 - 제품 무게*0.1 만큼으로 자동 조정
 ---
