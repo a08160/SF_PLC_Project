@@ -69,6 +69,7 @@
 ![NOTION](https://img.shields.io/badge/NOTION-black) - 전반적인 내용 정리
 
 ![ZOOM](https://img.shields.io/badge/ZOOM-blue) - 주기적인 회의
+
 ---
 ## 📆 프로젝트 수행 절차 - 마일스톤
 ![image (5)](https://github.com/user-attachments/assets/48045360-78c3-45fb-afe3-525fc8524a52)
