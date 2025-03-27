@@ -84,7 +84,11 @@
 |김혜은|팀원| [제품 분류 시스템] HMI 작화<br>전체적인 세부 디자인 완성<br>PPT 제작|![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)|[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyeeun619)|
 
 ---
-## 📹 서비스 시연
-
----
-##  💡 기대 효과
+##  🎯 기대 효과
+1. **스마트 팩토리 활성화 및 경쟁력 강화**
+    1. 스마트 팩토리 구축을 통해 **제조 공정의 자동화 수준의 향상**
+    2. 디지털 트윈 기술 및 PLC 기반의 자동화 시스템 도입으로 **생산 속도 및 품질 개선의 효과**
+    3. **생산 비용 절감 및 불량률 감소**
+2. **스마트 제조 인프라 확충**
+    1. PLC 알고리즘과 제조 시스템의 접목을 통해 스마트 제조 환경이 확산되고 **고급 인력 양성 및 고용 창출 기대**
+    2. **산업 전반의 경쟁력 강화**
