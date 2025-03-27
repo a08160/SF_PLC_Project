@@ -18,11 +18,6 @@
     - 제조 공정에서 발생하는 **분류 및 처리 로직**에 대한 알고리즘 설계
     - 실제 자동화 프로세스에서 발생할 수 있는 상황을 반영한 **시뮬레이션 및 최적화**
 ---
-## 🔧 활용 스택
-- PLC: XG5000 (LS 산전/XGI)
-- HMI: XP-Builder (LS산전/XGI CPU Eternet)
-- 프로그래밍 언어: Ladder Logic, FBD
----
 ## 💻 주요 기능
 
 ### **📍 컨베이어 벨트 기반 제품 분류 시스템**
@@ -61,6 +56,16 @@
 ### 📍 **속도 조절 시스템**
 
 - 제품 무게*0.1 만큼으로 자동 조정
+---
+## 🔧 활용 스택
+- PLC: XG5000 (LS 산전/XGI)
+- HMI: XP-Builder (LS산전/XGI CPU Eternet)
+- 프로그래밍 언어: Ladder Logic, FBD
+---
+## 🔨 협업 툴
+![GITHUB](https://img.shields.io/badge/GITHUB-lightgrey)
+![NOTION](https://img.shields.io/badge/NOTION-lightgrey)
+![ZOOM](https://img.shields.io/badge/ZOOM-blue)
 ---
 ## 📆 프로젝트 수행 절차 - 마일스톤
 ![image (5)](https://github.com/user-attachments/assets/48045360-78c3-45fb-afe3-525fc8524a52)
